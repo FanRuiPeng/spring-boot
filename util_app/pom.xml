@@ -61,7 +61,7 @@
         <!--</plugins>-->
 
         <!--<filters>-->
-        <!--<filter>src/main/filters/filter.properties</filter>-->
+        <!--<filter>src/main/java/filters/filter.properties</filter>-->
         <!--</filters>-->
 
         <resources>
